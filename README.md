@@ -5,7 +5,7 @@
 
 - 🔭 Currently a staff at [RefineStudio](https://github.com/RefineStudio)
 
-- 🌱 I’m currently learning **Rust 🤔**
+- 🌱 I’m currently learning **GO 🤔**
 
 - 👯 I’m looking to collaborate on **Anything**
 
