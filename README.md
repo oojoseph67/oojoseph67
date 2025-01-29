@@ -18,7 +18,7 @@
 - **TypeScript**, **JavaScript**, **Go**
 
 ### **Web Development**
-- **Frontend**: React, Next.js, Tailwind CSS  
+- **Frontend**: React, Next.js
 - **Backend**: Node.js, NestJS, GraphQL, REST APIs  
 
 ### **Blockchain Development**
