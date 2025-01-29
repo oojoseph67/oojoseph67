@@ -4,7 +4,7 @@
 
 - 🔭 Building [FutureForge](https://github.com/FutureForge)  
 - 🌱 I’m currently learning **Go 🤔**  
-- 👯 I’m looking to collaborate on **Web3 and Blockchain Projects**  
+- 👯 I’m looking to collaborate on **Web2, Web3 and Blockchain Projects**  
 - 👨‍💻 Explore my projects: [https://github.com/oojoseph67](https://github.com/oojoseph67)  
 - 💬 Ask me about **NFT Marketplaces, Backend Development, and Blockchain Solutions**  
 - 📫 Reach me at **oojoseph67@gmail.com**  
