@@ -1,72 +1,206 @@
-<h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">Backend & Full-Stack Web2/Web3 Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div align="center">
 
----
-- 👯 Open to collaborating
-- 👨‍💻 Check out my portfolio: [josephbuilds.vercel.app](https://josephbuilds.vercel.app/)  
-- 💬 Ask me about **Backend Systems and Blockchain Solutions**  
-- 📫 Reach me at **oojoseph67@gmail.com**  
-- ⚡ Fun fact: **I love bringing ideas to life 😉**
+```
+ ██╗ ██████╗ ███████╗███████╗██████╗ ██╗  ██╗
+ ██║██╔═══██╗██╔════╝██╔════╝██╔══██╗██║  ██║
+ ██║██║   ██║███████╗█████╗  ██████╔╝███████║
+██ ██║██║   ██║╚════██║██╔══╝  ██╔═══╝ ██╔══██║
+╚█████╔╝╚██████╔╝███████║███████╗██║     ██║  ██║
+ ╚════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝
+```
 
----
+# Joseph Okolo
+### Backend Engineer · Web3 Specialist · Engineering Lead
 
-<h2>🛠️ Skills & Expertise</h2>
+[![Portfolio](https://img.shields.io/badge/Portfolio-josephbuilds.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josephbuilds.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-oojoseph67@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oojoseph67@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@0xJoseph-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJoseph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Okolo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-okolo-00b760178/)
 
-### Programming Languages
-- **TypeScript**, **JavaScript**, **Go**
-
-### Web Development
-- **Frontend**: React, Next.js  
-- **Backend**: Node.js, NestJS, GraphQL, REST APIs  
-
-### Blockchain Development
-- **Tools**: Web3.js, Ethers.js, Solana SDK  
-- **Apps**: NFT Minting, Marketplaces, DeFi, Wallet Integrations  
-
-### Database
-- **MongoDB**, **PostgreSQL**
-
-### Cloud & DevOps
-- **AWS**, **Docker**, **GitHub Actions**
-
-### Others
-- Real-Time: **WebSockets, GraphQL Subscriptions**  
-- Documentation: **Swagger**  
-- Collaboration: **Slack, Jira**
+</div>
 
 ---
 
-<h2>🏆 Achievements</h2>
+## `> whoami`
 
-- 🥇 **Hackathon Winner** – Wallet-based app recognized at a Web3 hackathon.  
-- 🏅 **Judges' Pick** – NFT Marketplace selected as Judges' Pick.  
-- 🚀 Built **blockchain-ready solutions** for DeFi platforms.  
-- ⚙️ Created a **Studio Attendance Bot in Go** automating team workflows.  
+Backend Engineer with **4+ years** building scalable, production-grade systems across **fintech**, **Web3**, and **real estate**. Currently Engineering Lead at **Syarpa**, architecting investment and wealth platforms that handle real money at scale.
 
----
+I care about clean architecture, reliable APIs, and writing code that other engineers can confidently build on — systems that scale not just in traffic, but in **clarity and maintainability**.
 
-<h2>🌟 Featured Projects</h2>
-
-- **Curvance Indexer** – High-performance blockchain data fetcher.  
-- **The Rollup** – Backend auth & data management with Clerk + GraphQL.  
-- **Chatter App** – Real-time chat app (NestJS + MongoDB).  
-- **NFT Marketplace** – Full-featured minting & trading platform.  
-- **Studio Attendance Bot** – Automated team attendance using Go.  
+> *"I love bringing ideas to life."*
 
 ---
 
-<h3>🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xJoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__oojoseph" height="30" width="40" /></a>
-<a href="mailto:oojoseph67@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="oojoseph67" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/joseph-okolo-00b760178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## `> ls ./stack`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+```
+TypeScript  ████████████  Primary
+JavaScript  ██████████░░  Proficient
+Go          ██████░░░░░░  Working
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+```
+NestJS      ████████████  Expert
+Node.js     ████████████  Expert
+GraphQL     ██████████░░  Advanced
+REST APIs   ████████████  Expert
+WebSockets  ████████░░░░  Advanced
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Web3 / Blockchain**
+```
+Ethers.js   ████████████  Expert
+Web3.js     ██████████░░  Advanced
+DeFi dApps  ████████░░░░  Advanced
+NFT/DEX     ████████░░░░  Advanced
+Solana SDK  █████░░░░░░░  Familiar
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Databases**
+```
+PostgreSQL  ████████████
+MongoDB     ████████████
+Supabase    ████████░░░░
+```
+
+</td>
+<td valign="top">
+
+**Frontend**
+```
+Next.js     ████████░░░░
+React       ████████░░░░
+```
+
+</td>
+<td valign="top">
+
+**DevOps & Cloud**
+```
+AWS         ████████░░░░
+Docker      ████████░░░░
+GitHub CI   ██████░░░░░░
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3>📈 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oojoseph67&show_icons=true&theme=radical" alt="oojoseph67 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oojoseph67&theme=radical" alt="oojoseph67 streak" />
-</p>
+## `> cat ./experience.log`
+
+```yaml
+- role: Engineering Lead (Backend)
+  company: Syarpa · Fintech
+  period: Sep 2025 → Present
+  highlights:
+    - Led Bloomvest V2 launch end-to-end
+    - Migrated legacy SQL → PostgreSQL at scale
+    - Refactored Express.js → NestJS (modular, testable architecture)
+    - Designed APIs for investment flows, portfolios & financial transactions
+
+- role: Backend Developer
+  company: Fobework Studio
+  period: Jan 2025 → Jun 2025
+  highlights:
+    - Built Trilla — real estate platform with fractional ownership & fiat/crypto
+    - Built TriPay — QR/NFC scan-to-pay gateway with FX engine & merchant APIs
+    - Designed multi-role architectures: Users, Wallets, Transactions, Agents, Admins
+
+- role: Web3 Blockchain Developer
+  company: Refine Studio
+  period: Sep 2023 → Nov 2024
+  highlights:
+    - Developed DeFi products — Curvance, Moziac, Pike, The Rollup
+    - Built a high-performance blockchain indexer for Curvance
+    - Implemented MetaMask + email auth backend using GraphQL + Clerk
+    - Created Studio Attendance Bot in Go
+
+- role: Fullstack Developer Intern
+  company: DappLabs
+  period: Aug 2023 → Sep 2023
+
+- role: Freelance Developer
+  company: Self
+  period: Apr 2022 → Present
+  highlights:
+    - NFT marketplaces, DEXs, trading bots, mini Telegram apps
+    - Custom Web3 lottery apps, e-commerce APIs, blogging platforms
+```
+
+---
+
+## `> ls ./projects --featured`
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏦 **[Bloomvest V2](https://josephbuilds.vercel.app/)** | Fintech investment & wealth platform | `NestJS` `PostgreSQL` |
+| 🏘️ **Trilla** | Real estate fractional ownership + fiat/crypto payments | `NestJS` `Supabase` `Next.js` |
+| 💳 **TriPay** | Scan-to-pay gateway with FX engine & merchant APIs | `NestJS` `MongoDB` `Web3` |
+| 🎰 **CrossBet** | Microservices betting platform | `NestJS` `GraphQL` `WebSockets` `Docker` |
+| ⛓️ **Curvance Indexer** | High-performance blockchain data fetcher for DeFi | `Node.js` `Ethers.js` |
+| 💬 **Chatter App** | Real-time messaging app | `NestJS` `GraphQL` `WebSockets` `Next.js` |
+| 🖼️ **NFT Marketplace** | Full-featured NFT minting & trading platform | `React` `Ethers.js` `CrossFi` |
+| 🤖 **Studio Attendance Bot** | Automated attendance tracking for teams | `Go` |
+
+---
+
+## `> cat ./achievements.txt`
+
+```
+🥇  Hackathon Winner         — Wallet-based dApp, Web3 Hackathon
+🏅  Judges' Pick             — NFT Marketplace, Web3 Hackathon
+🏆  4th Place                — Wallet dApp category
+🚀  Multi-chain DeFi         — Delivered blockchain solutions across DeFi, fintech & real estate
+⚙️  Engineering Lead         — Promoted to lead backend architecture at a funded fintech
+```
+
+---
+
+## `> ./stats.sh`
+
+<div align="center">
+
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oojoseph67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oojoseph67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oojoseph67&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## `> cat ./education.md`
+
+**B.Sc. Computer Science** — Federal University of Petroleum Resources, 2023
+
+---
+
+<div align="center">
+
+*Building systems that scale in traffic, clarity, and reliability.*
+
+**Open to collaborating on ambitious backend & Web3 projects.**
+
+[![Portfolio](https://img.shields.io/badge/→_josephbuilds.vercel.app-Visit_Portfolio-000?style=for-the-badge)](https://josephbuilds.vercel.app/)
+
+</div>
