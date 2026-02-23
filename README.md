@@ -3,14 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
-
-- 🔭 Building [FutureForge](https://github.com/FutureForge)  
-- 🌱 Currently learning **Go** 🚀  
-- 👯 Open to collaborating on **Web2, Web3 & Blockchain Projects**  
+- 👯 Open to collaborating
 - 👨‍💻 Check out my portfolio: [josephbuilds.vercel.app](https://josephbuilds.vercel.app/)  
-- 💬 Ask me about **NFT Marketplaces, Backend Systems, and Blockchain Solutions**  
+- 💬 Ask me about **Backend Systems and Blockchain Solutions**  
 - 📫 Reach me at **oojoseph67@gmail.com**  
-- ⚡ Fun fact: **I love bringing Web3 ideas to life 😉**
+- ⚡ Fun fact: **I love bringing ideas to life 😉**
 
 ---
 
