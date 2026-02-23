@@ -23,11 +23,7 @@
 
 ## `> whoami`
 
-Backend Engineer with **4+ years** building scalable, production-grade systems across **fintech**, **Web3**, and **real estate**. Currently Engineering Lead at **Syarpa**, architecting investment and wealth platforms that handle real money at scale.
-
-I care about clean architecture, reliable APIs, and writing code that other engineers can confidently build on — systems that scale not just in traffic, but in **clarity and maintainability**.
-
-> *"I love bringing ideas to life."*
+Backend Engineer with **4+ years** building scalable, production-grade systems in TypeScript and NestJS. I lead with clean architecture: modular design, strong database foundations, and APIs that teams can reliably build on top of. Across fintech, Web3, and real estate, I've taken ownership of full backend lifecycles: migrating legacy codebases, architecting crypto payment gateways, and leading engineering teams from ideation to production. Currently Engineering Lead at **Syarpa** and contracted backend developer at **TamPay** and **RapidRocket Studio**.
 
 ---
 
@@ -108,6 +104,23 @@ GitHub CI   ██████░░░░░░
 ## `> cat ./experience.log`
 
 ```yaml
+- role: Backend Developer (Contract)
+  company: TamPay · Fintech
+  period: Dec 2025 → Present
+  highlights:
+    - Building Celler — a B2B fintech platform for buying & selling crypto and fiat
+    - Led full rewrite of Celler V2, migrating from Laravel (V1) to NestJS + PostgreSQL
+    - Designed scalable backend architecture for multi-sided marketplace with crypto/fiat flows
+    - Improved performance, maintainability, and extensibility over the legacy PHP codebase
+
+- role: Backend Developer (Contract)
+  company: RapidRocket · Studio
+  period: Dec 2025 → Present
+  highlights:
+    - Contracted as backend developer for client projects across the studio
+    - Built 2 production projects using NestJS, Express.js, MySQL, Prisma & PostgreSQL
+    - Designed and delivered full backend systems from scratch per client specs
+
 - role: Engineering Lead (Backend)
   company: Syarpa · Fintech
   period: Sep 2025 → Present
