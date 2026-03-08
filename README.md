@@ -113,14 +113,6 @@ GitHub CI   ██████░░░░░░
     - Designed scalable backend architecture for multi-sided marketplace with crypto/fiat flows
     - Improved performance, maintainability, and extensibility over the legacy PHP codebase
 
-- role: Backend Developer (Contract)
-  company: RapidRocket · Studio
-  period: Dec 2025 → Present
-  highlights:
-    - Contracted as backend developer for client projects across the studio
-    - Built 2 production projects using NestJS, Express.js, MySQL, Prisma & PostgreSQL
-    - Designed and delivered full backend systems from scratch per client specs
-
 - role: Engineering Lead (Backend)
   company: Syarpa · Fintech
   period: Sep 2025 → Present
@@ -129,6 +121,14 @@ GitHub CI   ██████░░░░░░
     - Migrated legacy SQL → PostgreSQL at scale
     - Refactored Express.js → NestJS (modular, testable architecture)
     - Designed APIs for investment flows, portfolios & financial transactions
+
+- role: Backend Developer (Contract)
+  company: RapidRocket · Studio
+  period: Dec 2025 → Mar 2026
+  highlights:
+    - Contracted as backend developer for client projects across the studio
+    - Built 2 production projects using NestJS, Express.js, MySQL, Prisma & PostgreSQL
+    - Designed and delivered full backend systems from scratch per client specs
 
 - role: Backend Developer
   company: Fobework Studio
