@@ -12,7 +12,7 @@
 # Joseph Okolo
 ### Backend Engineer · Web3 Specialist · Engineering Lead
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-josephbuilds.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josephbuilds.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josephbuilds.xyz-000000?style=for-the-badge&logo=josephbuilds&logoColor=white)](https://josephbuilds.xyz/)
 [![Email](https://img.shields.io/badge/Email-oojoseph67@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oojoseph67@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@0xJoseph-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJoseph)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Okolo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-okolo-00b760178/)
@@ -165,7 +165,7 @@ GitHub CI   ██████░░░░░░
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏦 **[Bloomvest V2](https://josephbuilds.vercel.app/)** | Fintech investment & wealth platform | `NestJS` `PostgreSQL` |
+| 🏦 **[Bloomvest V2](https://josephbuilds.xyz/)** | Fintech investment & wealth platform | `NestJS` `PostgreSQL` |
 | 🏘️ **Trilla** | Real estate fractional ownership + fiat/crypto payments | `NestJS` `Supabase` `Next.js` |
 | 💳 **TriPay** | Scan-to-pay gateway with FX engine & merchant APIs | `NestJS` `MongoDB` `Web3` |
 | 🎰 **CrossBet** | Microservices betting platform | `NestJS` `GraphQL` `WebSockets` `Docker` |
@@ -214,6 +214,6 @@ GitHub CI   ██████░░░░░░
 
 **Open to collaborating on ambitious backend & Web3 projects.**
 
-[![Portfolio](https://img.shields.io/badge/→_josephbuilds.vercel.app-Visit_Portfolio-000?style=for-the-badge)](https://josephbuilds.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/→_josephbuilds.xyz-Visit_Portfolio-000?style=for-the-badge)](https://josephbuilds.xyz)
 
 </div>
